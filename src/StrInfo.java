@@ -23,7 +23,7 @@ System.out.println(b2);
 boolean b3=s.equals("greeshma");
 System.out.println(b3);
 boolean b4=s.equalsIgnoreCase("greeshma");
-System.out.println(b4);
+System.out.println("boolean");
 String s3="";
 boolean b5=s3.isEmpty();
 System.out.println(b5);
